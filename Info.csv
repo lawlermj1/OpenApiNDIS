@@ -1,0 +1,2 @@
+oaInfoTitle,oaInfoVersion,oaInfoDescription,oaInfoTermsOfService,oaInfoContact,oaInfoLicense
+"""API""","""v1""","""""","""""","Contact {_contactName = Nothing, _contactUrl = Nothing, _contactEmail = Nothing}","License {_licenseName = """", _licenseUrl = Nothing}"

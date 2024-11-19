@@ -1,0 +1,2 @@
+oaSecuritySchemeKey,oaSecuritySchemeType,oaSecuritySchemeTypeEncode,oaSecuritySchemeDescription
+"""bearerAuth""","SecuritySchemeHttp (HttpSchemeBearer (Just ""JWT""))","""{\""bearerFormat\"":\""JWT\"",\""scheme\"":\""bearer\"",\""type\"":\""http\""}""","""JWT Authorization header using the Bearer scheme. Example: \""Authorization: Bearer {token}\"""""
