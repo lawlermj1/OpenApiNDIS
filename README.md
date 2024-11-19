@@ -13,7 +13,7 @@ This module parses the NDIS OpenAPI specification file.
 ## Usage 
 
    Just compile the hs files. 
-   ndis.swagger.json is the input files. 
+   ndis.swagger.json is the input file. 
    It produces multiple csv files for each OpenAPI type. 
  
 
